@@ -1,0 +1,14 @@
+.App{
+    background-color: #23252C;
+    width: 550px;
+    margin: 50px auto;
+    border-radius: 5px;
+    padding: 40px 0;
+}
+
+.container{
+    background-color: #1A1B21;
+    width: 320px;
+    margin:auto;
+    border-radius: 10px;
+}
